@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "The Dixons",
+  "url": "https://thedixons.net/",
+  "description": "A Colonial Quaker Family",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A Colonial Quaker Family",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://thedixons.net/feed/feed.xml",
+    "id": "https://thedixons.net/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Glenn Dixon",
+    "email": "donblanco@posteo.net"
   }
 }
