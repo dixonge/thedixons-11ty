@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.",
   "main": ".eleventy.js",
-  "dependencies": {},
+  "dependencies": {
+    "luxon": "^1.17.2",
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
