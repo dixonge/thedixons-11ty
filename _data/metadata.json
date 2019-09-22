@@ -1,0 +1,16 @@
+{
+  "title": "The Dixons",
+  "url": "https://thedixons.net/",
+  "description": "A Colonial Quaker Family",
+  "feed": {
+    "subtitle": "A Colonial Quaker Family",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://thedixons.net/feed/feed.xml",
+    "id": "https://thedixons.net/"
+  },
+  "author": {
+    "name": "Glenn Dixon",
+    "email": "donblanco@posteo.net"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "thedixons-11ty",
+  "version": "1.0.0",
+  "description": "A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.",
+  "main": ".eleventy.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dixonge/thedixons-11ty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dixonge/thedixons-11ty/issues"
+  },
+  "homepage": "https://github.com/dixonge/thedixons-11ty#readme"
+}
