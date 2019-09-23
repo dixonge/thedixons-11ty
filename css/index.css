@@ -18,10 +18,11 @@
 html,
 body {
   padding: 0;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 768px;
   font-family: sans-serif;
   color: var(--black);
-  background-color: var(--paper);
+  background-color: var(--white);
 }
 p:last-child {
   margin-bottom: 0;
@@ -29,7 +30,7 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: 90%; /* 600px /16 */
 }
 p,
 .tmpl-post li {
@@ -43,15 +44,28 @@ a[href]:visited {
 }
 main {
   padding: 1rem;
+  margin: 0 auto;
+  width: 90%;
+  justify-content: center;
+  display: grid;
 }
 main :first-child {
-  margin-top: 0;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 768px;
+  width: 90%;
 }
 header {
   border-bottom: 1px dashed var(--navy);
+  margin: 0 auto;
+  max-width: 90%;
+  display: flex;
+  justify-content: center;
 }
 header img {
   float: left;
+  max-width: 140px;
+  width: 20%;
 }
 header:after {
   content: "";
@@ -158,6 +172,9 @@ pre {
 }
 .postlist-item {
   counter-increment: start-from -1;
+}
+li.postlist-item img {
+  width: 30%;
 }
 .postlist-item:before {
   display: inline-block;
