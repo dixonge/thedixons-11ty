@@ -4,7 +4,7 @@ author: Glenn Dixon
 type: page
 url: /clan/
 date: 2019-12-28
-layout: layouts/last3.njk
+layout: layouts/latest.njk
 ---
 Here is the current status of my Dixon Quaker family tree:
 
