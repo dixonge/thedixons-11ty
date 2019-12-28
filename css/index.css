@@ -59,6 +59,7 @@ header {
   border-bottom: 1px dashed var(--navy);
   margin: 0 auto;
   max-width: 90%;
+  padding: 10px 0;
 /*  display: flex;
   justify-content: center; */
 }
