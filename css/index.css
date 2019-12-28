@@ -49,12 +49,12 @@ main {
   justify-content: center;
   display: grid;
 }
-main :first-child {
+/* main :first-child {
   margin: 0 auto;
   text-align: center;
   max-width: 768px;
   width: 90%;
-}
+} */
 header {
   border-bottom: 1px dashed var(--navy);
   margin: 0 auto;
