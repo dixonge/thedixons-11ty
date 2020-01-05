@@ -22,7 +22,7 @@ My original idea below has been superceded by the following:
 
 Original post follows:
 
-&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;
+----------------------
   
 I have spent much of my free time today scouring the internet for Dixon family information. I refuse to believe that I’m the only Dixon descendant doing so, yet sometimes it feels that way. Queries and pieces of information scattered throughout the world. Somewhere &#8212; in some dusty attic in Indiana, or some library shelf or storage room in Delaware, or some computer database in Scotland not connected to the internet, or some Parish register in Ireland in some basement &#8212; are the details of my ancestors. I know they are there, I just can’t get to them! And what is worse is that some of their owners don’t seem to care.
 
